@@ -33,7 +33,7 @@ Only to provide the App's features: change journal, attribution, impact analysis
 
 ### 6. Retention and deletion
 - Journal, snapshots, audit evidence, events and notification records are kept for the period the administrator configures (default 90 days) and then deleted automatically every day. Operational records are kept 30 days.
-- When the App is uninstalled, all its stored data is deleted before removal.
+- When the App is uninstalled, a cleanup handler deletes the App's stored data in batches, and Atlassian's platform removes whatever remains.
 - The App reports the account IDs it stores to the Atlassian Personal Data Reporting API and, when a user's account is closed or changed, anonymizes that user's name and ID in the journal while keeping the change entry.
 
 ### 7. Your rights
