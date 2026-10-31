@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }} - Software for Atlassian Cloud</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+        <p><a href="{{ "/" | relative_url }}">Home</a></p>
+        <p><a href="mailto:support@lensdelta.com">support@lensdelta.com</a></p>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p><small>&copy; {{ "now" | date: "%Y" }} Lensdelta. All rights reserved.</small></p>
+      </footer>
+    </div>
+  </body>
+</html>
