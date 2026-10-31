@@ -1,6 +1,6 @@
 # Lensdelta
 
-Lensdelta (formerly PGMZ) is an independent software developer. We are a partner in the Atlassian Marketplace and build apps that extend the capabilities of Atlassian apps.
+Lensdelta is an independent software developer. We are a partner in the Atlassian Marketplace and build apps that extend the capabilities of Atlassian apps.
 
 ### Apps
 - **ConfigLedger** is an Atlassian Forge app for Jira Cloud that keeps a journal of configuration changes. [Legal and support information](configledger/)

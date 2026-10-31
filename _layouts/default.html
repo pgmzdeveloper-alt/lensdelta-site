@@ -4,16 +4,32 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title | default: site.title }} - Software for Atlassian Cloud</title>
+    <title>{{ page.title | default: site.title }} - Lensdelta</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <style>
+      .nav-links { margin: 15px 0; padding: 0; list-style: none; }
+      .nav-links li { margin-bottom: 8px; }
+      .nav-links a { text-decoration: none; font-weight: bold; }
+      .nav-links a:hover { text-decoration: underline; }
+      header { word-break: break-word; }
+    </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
         <p>{{ site.description }}</p>
-        <p><a href="{{ "/" | relative_url }}">Home</a></p>
-        <p><a href="mailto:support@lensdelta.com">support@lensdelta.com</a></p>
+
+        <ul class="nav-links">
+          <li><a href="{{ "/" | relative_url }}">Home</a></li>
+          <li><a href="{{ "/configledger/" | relative_url }}">ConfigLedger</a></li>
+          <li><a href="{{ "/configledger/privacy.html" | relative_url }}">Privacy Policy</a></li>
+          <li><a href="{{ "/configledger/terms.html" | relative_url }}">Terms of Service</a></li>
+          <li><a href="{{ "/configledger/security.html" | relative_url }}">Security Policy</a></li>
+          <li><a href="{{ "/configledger/support.html" | relative_url }}">Support</a></li>
+        </ul>
+
+        <p><small>Contact: <a href="mailto:support@lensdelta.com">support@lensdelta.com</a></small></p>
       </header>
       <section>
         {{ content }}

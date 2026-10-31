@@ -1,6 +1,6 @@
 # ConfigLedger
 
-ConfigLedger is an Atlassian Forge app for Jira Cloud published by Lensdelta (formerly PGMZ).
+ConfigLedger is an Atlassian Forge app for Jira Cloud published by Lensdelta.
 
 - [Privacy Policy](privacy.html)
 - [Terms of Service](terms.html)

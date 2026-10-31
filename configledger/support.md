@@ -1,7 +1,7 @@
 # Support
 
 **App:** ConfigLedger
-**Vendor:** Lensdelta, formerly PGMZ
+**Vendor:** Lensdelta
 **Effective date:** 31 October 2026
 
 ConfigLedger is maintained by an independent developer. Support is provided by email, on a best-effort basis.

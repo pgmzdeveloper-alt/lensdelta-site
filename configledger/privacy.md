@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **App:** ConfigLedger ("the App")
-**Vendor:** Lensdelta, formerly PGMZ ("we", "us")
+**Vendor:** Lensdelta ("we", "us")
 **Contact:** see "Contact" below
 **Effective date:** 7 October 2026 (contact details last updated 30 October 2026)
 

@@ -1,7 +1,7 @@
 # Security Policy
 
 **App:** ConfigLedger ("the App")
-**Vendor:** Lensdelta, formerly PGMZ ("we", "us")
+**Vendor:** Lensdelta ("we", "us")
 **Security contact:** security@lensdelta.com
 **Effective date:** 29 October 2026
 
