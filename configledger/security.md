@@ -45,7 +45,7 @@ If we detect or are notified of a security incident affecting the App:
 
 1. **Triage and contain.** Confirm the incident, determine its scope and contain it (for example by deploying a fix or disabling the affected feature).
 2. **Assess impact.** Determine which installations and which data are affected. Because customer data is held by Atlassian and not by us, our assessment relies on the App's code, Forge logs and information from Atlassian.
-3. **Notify.** We notify Atlassian and affected customers without undue delay, through the Marketplace contact channels, with what happened, what is affected and what customers should do.
+3. **Notify.** We notify Atlassian promptly (within 48 hours, in compliance with Atlassian Developer Terms) and affected customers without undue delay, through the Marketplace contact channels, detailing what happened, what is affected and recommended actions.
 4. **Remediate.** Release a fixed version and verify the fix.
 5. **Review.** Document the root cause and the changes made to prevent recurrence.
 

@@ -9,9 +9,10 @@
 5. **Privacy.** Our Privacy Policy at https://lensdelta.com/configledger/privacy.html forms part of these terms.
 6. **Availability and changes.** The App runs on Atlassian Forge and depends on its availability. We may update or discontinue features with reasonable notice.
 7. **AI features.** AI summaries are optional, may be inaccurate and must be reviewed by a person before you rely on them.
-8. **Support.** Support is provided at the contact address in section 13 on a best-effort basis during business days.
+8. **Support.** Support is provided by an independent developer on a part-time, best-effort basis during the operating hours in section 14 and our [Support Policy](support.html). We are open to inquiries and user feedback, though availability is limited.
 9. **Warranty disclaimer.** The App is provided "as is" without warranties of any kind, to the extent permitted by law.
-10. **Limitation of liability.** To the extent permitted by law, our total liability is limited to the fees you paid in the 12 months before the claim (or USD 100 if the App is free), and we are not liable for indirect or consequential damages. The App is a record-keeping aid and does not replace your own audit and compliance controls.
-11. **Termination.** You may stop using it by uninstalling. We may suspend access for breach of these terms. On uninstall your data is deleted as described in the Privacy Policy.
-12. **Governing law.** the country where Lensdelta is established, without regard to conflict-of-law rules.
-13. **Contact.** Lensdelta, support@lensdelta.com.
+10. **Pricing and billing.** The App is currently provided free of charge ("Free App"). Should paid features or subscription tiers be introduced in future releases, all billing, tier management and taxes will be managed exclusively by Atlassian under the [Atlassian Marketplace Terms of Use](https://www.atlassian.com/licensing/marketplace/termsofuse). Lensdelta does not collect payment details, process financial transactions, or issue direct refunds.
+11. **Limitation of liability.** Because the App is provided free of charge, to the extent permitted by law, our total aggregate liability for any claim arising out of or relating to the App is capped at USD 50, and we are not liable for indirect, special, incidental or consequential damages. The App is a record-keeping aid and does not replace your own audit and compliance controls.
+12. **Termination.** You may stop using it by uninstalling. We may suspend access for breach of these terms. On uninstall your data is deleted as described in the Privacy Policy.
+13. **Governing law.** the country where Lensdelta is established, without regard to conflict-of-law rules.
+14. **Contact.** Lensdelta, support@lensdelta.com.
