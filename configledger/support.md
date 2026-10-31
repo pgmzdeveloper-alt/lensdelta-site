@@ -12,7 +12,7 @@ ConfigLedger is maintained by an independent developer. Support is provided by e
 - **Privacy requests:** privacy@lensdelta.com (see our [Privacy Policy](privacy.html)).
 
 ### Hours and response time
-- Monday to Friday, 09:00 to 17:00 Ecuador time (UTC−5), excluding public holidays in Ecuador.
+- Tuesday, Thursday, and Saturday, 06:00 to 08:00 Ecuador time (UTC−5 / GMT−5).
 - We aim to reply within 3 business days. Security reports are handled first.
 - Languages: English and Spanish.
 
